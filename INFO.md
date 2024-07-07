@@ -2,5 +2,4 @@ git is awesome!
 new line
 add new content
 experiment with amend
-new data
-new data
+hello, it is vim
